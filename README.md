@@ -1,5 +1,5 @@
 # Analisis-SQL-Libreria
-__Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
+__Análisis de datos mediante consultas SQL__
 
 <image src="https://github.com/BastianLQ/Analisis-SQL-Libreria/blob/main/N14SQL.jpg" alt="Collage">
 

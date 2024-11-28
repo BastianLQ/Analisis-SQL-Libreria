@@ -3,7 +3,7 @@ __Análisis de datos mediante consultas SQL__
 
 <image src="https://github.com/BastianLQ/Analisis-SQL-Libreria/blob/main/N14SQL.jpg" alt="Collage">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
+_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P14SQL.html)_
 
 ## Descripción del Proyecto
 El coronavirus tomó al mundo entero por sorpresa, cambiando la rutina diaria de todos y todas. Los habitantes de las ciudades ya no pasaban su tiempo libre fuera, yendo a cafés y centros comerciales; sino que más gente se quedaba en casa, leyendo libros. Eso atrajo la atención de las startups (empresas emergentes) que se apresuraron a desarrollar nuevas aplicaciones para los amantes de los libros.
@@ -23,5 +23,5 @@ El proyecto se dividió en dos fases:
 ## Relevancia de los descubrimientos
 El análisis de datos reveló patrones interesantes acerca del consumo de libros y de las interacciones de los usuarios ("me gusta" y reseñas).
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
+## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P14SQL.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.

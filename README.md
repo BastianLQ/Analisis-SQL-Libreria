@@ -1,4 +1,4 @@
-# Analisis-SQL-Libreria
+# Análisis exploratorio: librería online
 __Análisis de datos mediante consultas SQL__
 
 <image src="https://github.com/BastianLQ/Analisis-SQL-Libreria/blob/main/N14SQL.jpg" alt="Collage">

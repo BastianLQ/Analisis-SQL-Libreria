@@ -26,5 +26,15 @@ El proyecto se dividió en dos fases:
 
 Se puede apreciar una base de datos de cuatro tablas, con información sobre los libros, autores, ratings, reviews y editoriales.
 
+## Descubrimientos importantes
+A partir de las consultas realizadas a la base de datos proporcionada, se han recopilado las siguientes conclusiones.
+
+- El número de libros publicados desde el 1 de enero de 2000 es de 819.
+- Con 42 publicaciones, Penguin Books es la editorial que más libros (textos de más de 50 páginas) ha lanzado.
+- Diana Gabaldon es la autora mejor calificada con un promedio de 4.3 estrellas de un total de 5.
+- El número promedio de reseñas (reviews) de texto entre los usuarios que calificaron (rating) más de 50 libros es de 24.3
+
+A partir del último punto (y como se menciona en el bloque anterior) se puede presuponer que los usuarios que escriben reseñas generalmente calfican (y por lo tanto leen) varios libros, incentivar a los usuarios a calificar sus lecturas podría ser un buen primer paso para aumentar la cantidad de reseñas escritas, esto debido a que una calificación es menos invasiva y requiere menos esfuerzo que escribir una reseña, y a su vez, una reseña escrita puede resultar más útil para un potencial comprador que una calificación.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P14SQL.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.

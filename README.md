@@ -20,8 +20,9 @@ El proyecto se dividió en dos fases:
 - __Preparativos:__ Importar las librerías necesarias, optimizar el proceso de realizar las consultas en SQL y previsualizar las tablas.
 - __Análisis:__ Responder 5 preguntas clave sobre el e-commerce de libros.
 
-## Relevancia de los descubrimientos
-El análisis de datos reveló patrones interesantes acerca del consumo de libros y de las interacciones de los usuarios ("me gusta" y reseñas).
+## Base de datos
+
+<image src="https://github.com/BastianLQ/Analisis-SQL-Libreria/blob/main/Images/Image.png" alt="banner">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P14SQL.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.

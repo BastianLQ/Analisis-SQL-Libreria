@@ -37,4 +37,4 @@ A partir de las consultas realizadas a la base de datos proporcionada, se han re
 A partir del último punto (y como se menciona en el bloque anterior) se puede presuponer que los usuarios que escriben reseñas generalmente calfican (y por lo tanto leen) varios libros, incentivar a los usuarios a calificar sus lecturas podría ser un buen primer paso para aumentar la cantidad de reseñas escritas, esto debido a que una calificación es menos invasiva y requiere menos esfuerzo que escribir una reseña, y a su vez, una reseña escrita puede resultar más útil para un potencial comprador que una calificación.
 
 ## Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Analisis-SQL-Libreria/blob/main/Notebook.ipynb)
-Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
+Para ver el desarrollo completo en código, haga click en el enlace de arriba.

@@ -24,5 +24,7 @@ El proyecto se dividió en dos fases:
 
 <image src="https://github.com/BastianLQ/Analisis-SQL-Libreria/blob/main/Images/Image.png" alt="banner">
 
+Se puede apreciar una base de datos de cuatro tablas, con información sobre los libros, autores, ratings, reviews y editoriales.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P14SQL.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.

@@ -1,7 +1,7 @@
 # Análisis exploratorio: librería online
 __Análisis de datos mediante consultas SQL__
 
-<image src="https://github.com/BastianLQ/Analisis-SQL-Libreria/blob/main/N14SQL.jpg" alt="Collage">
+<image src="https://github.com/BastianLQ/Analisis-SQL-Libreria/tree/main/Images" alt="Collage">
 
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P14SQL.html)_
 
